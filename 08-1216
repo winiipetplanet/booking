@@ -1367,7 +1367,7 @@ export default function App() {
                                          onChange={(e) => setFormData(prev => ({...prev, finalConfirmed: e.target.checked}))}
                                          className="hidden"
                                      />
-                                     <span className="text-sm text-[#5D5550]">會記得追蹤社群並私訊溫妮確認😋</span>
+                                     <span className="text-sm text-[#5D5550]">會記得追蹤社群並私訊溫妮確認🙋‍♀️</span>
                                  </label>
                              </div>
                         </div>
